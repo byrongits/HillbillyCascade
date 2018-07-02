@@ -2,7 +2,6 @@
  * HillbillyCascade - Create cascading drop downs for SharePoint 2013/2016/O365 classic forms
  * Version 2.0 
  * @requires jQuery v1.7 or greater 
- * @requires unslider 
  *
  * Copyright (c) 2017 Mark Rackley / PAIT Group
  * Licensed under the MIT license:
